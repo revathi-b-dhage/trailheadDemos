@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Impact__c</fullName>
     <externalId>false</externalId>
-    <inlineHelpText>Test 1</inlineHelpText>
+    <inlineHelpText>Test 1 xyzzzabc</inlineHelpText>
     <label>Impact</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
@@ -19,10 +19,11 @@
                 <label>Regional</label>
             </value>
             <value>
-                <fullName>National</fullName>
+                <fullName>Nationale</fullName>
                 <default>false</default>
                 <label>National</label>
             </value>
+            
         </valueSetDefinition>
     </valueSet>
 </CustomField>
